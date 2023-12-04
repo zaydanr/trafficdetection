@@ -1,1 +1,1 @@
-print("zayzay is the coolest!")
+print("Hi")

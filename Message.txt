@@ -1,0 +1,1 @@
+mosquitto_pub -t TrafficLightPi -u "65ccc2a11a0ee012cb43b23b" -p "1883" -P "9kHQ7THcvfAxEEQNr24BVQy1" -h "mqtt.things.ph" -m green_on
